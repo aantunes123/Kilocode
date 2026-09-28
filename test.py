@@ -1,3 +1,4 @@
+# Alexandre Antunes 09/2026
 import numpy as np
 from matplotlib import pyplot as plt
 
